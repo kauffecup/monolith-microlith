@@ -1,0 +1,16 @@
+{
+   "mqlight": [
+      {
+         "name": "MQ Light",
+         "label": "mqlight",
+         "plan": "standard",
+         "credentials": {
+            "password": "x+(hFc+UEQ83",
+            "nonTLSConnectionLookupURI": "http://mqlightprod-lookup.ng.bluemix.net/Lookup?serviceId=3c35c150-f9b4-4fb9-96e9-e8822842c213",
+            "version": "2",
+            "connectionLookupURI": "http://mqlightprod-lookup.ng.bluemix.net/Lookup?serviceId=3c35c150-f9b4-4fb9-96e9-e8822842c213&tls=true",
+            "username": "h6V9q9mxZWEF"
+         }
+      }
+   ]
+}

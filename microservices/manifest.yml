@@ -1,0 +1,10 @@
+applications:
+- host: microlith
+  name: microlith
+  services:
+  - MQ Light
+  command: node app.js
+  path: .
+  domain: mybluemix.net
+  instances: 5
+  memory: 128M
